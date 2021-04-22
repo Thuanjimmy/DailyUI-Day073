@@ -1,0 +1,97 @@
+body {
+  background-image: url(../images/galaxy.jpeg);
+  padding: 25px;
+}
+
+p {
+  margin-bottom: 0;
+}
+.yellow {
+  color: yellow;
+  position: relative;
+}
+
+.blue {
+  color: blue;
+  position: relative;
+}
+.royalblue {
+  color: royalblue;
+  position: relative;
+}
+.white {
+  color: white;
+  position: relative;
+}
+.sun {
+  left: 500px;
+}
+.rocket2 {
+  transform: rotate(270deg);
+  top: 300px;
+  right: 200px;
+}
+.sat {
+  top: 400px;
+  left: 950px;
+}
+.star1 {
+  transform: rotate(30deg);
+}
+.star2 {
+  transform: rotate(130);
+  bottom: 30px;
+  left: 200px;
+}
+
+.rocket1 {
+  transform: rotate(45deg);
+  left: 300px;
+  top: 300px;
+  color: red;
+}
+.star3 {
+  top: 200px;
+  right: 400px;
+}
+.star4 {
+  left: 300px;
+}
+.absolute {
+  position: absolute;
+}
+.box {
+  width: 420px;
+  height: 600px;
+  background-color: white;
+  border-radius: 10px;
+  border: black 10px solid;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+.pic {
+  width: 100%;
+}
+.title {
+  margin-top: 35px;
+}
+.cart {
+  background-color: aqua;
+}
+
+.company {
+  color: aqua;
+  margin: 25px auto 0;
+}
+
+.center {
+  margin-top: 25px;
+  text-align: center;
+}
+.width {
+  max-width: 200px;
+}
+.title {
+  text-align: right;
+}
